@@ -4,9 +4,9 @@ A programming language organization with **Chinese Phonetic Alphabet**.
 
 ## About Pin1Yin1
 
-**Chinese Phonetic Alphabet** based programming language. 
+### **Chinese Phonetic Alphabet** based programming language. 
 
-We are trying to make a simple programming language for Chinese, though it is start from a toy programming language idea.
+We are trying to make a simple programming language for Chinese, though it is start from a toy programming language idea. We believe Pinyin would be most simple for Chinese. By using Pinyin, this language can be a true CN language developed by Chinese, using Chinese words (in some how, Pinyin is a part of Chinese) and high technical (isn't a programming language high technique).
 
 ### Advantages
 
