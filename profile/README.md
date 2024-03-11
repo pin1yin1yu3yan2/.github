@@ -18,7 +18,7 @@ We are trying to make a simple programming language for Chinese, though it is st
 
 - [Pin1Yin1](https://github.com/pin1yin1yu3yan2/Pin1Yin1): Pin1Yin1 language main project
 - [Pin1Yin1-TransC](https://github.com/pin1yin1yu3yan2/Pin1Yin1-TransC): Translator to translate Pin1Yin1 language into C language
-- [Pin1Yin1-rustc](https://github.com/pin1yin1yu3yan2/Pin1Yin1-rustc): A set of parser, compiler, translater for Pin1Yin language
+- [Pin1Yin1-rustc](https://github.com/pin1yin1yu3yan2/Pin1Yin1-rustc): A set of parser, compiler, translater for Pin1Yin1 language
 
 ## Contribution
 
