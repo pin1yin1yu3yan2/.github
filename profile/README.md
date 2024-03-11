@@ -11,7 +11,7 @@ We are trying to make a simple programming language for Chinese, though it is st
 ### Advantages
 
 - **Easy to start**: For Chinese studied Pinyin which it is an *Compulsory Subjects* in primary school, without remembering any English word, can easily start with this language.
-- **Defence language**: There many ways that you can decrease the readability of Pin1Yin1 code.
+- **Defence language**: There are many ways that you can decrease the readability of Pin1Yin1 code.
 - **Highly customization**: You can change the key words and add limits on the original language.
 
 ## Projects
