@@ -16,8 +16,8 @@ We are trying to make a simple programming language for Chinese, though it is st
 
 ## Projects
 
-- [Pin1Yin1](): Pin1Yin1 language main project
-- [Pin1Yin1-TransC](): Translator to translate Pin1Yin1 language into C language
+- [Pin1Yin1](/Pin1Yin1): Pin1Yin1 language main project
+- [Pin1Yin1-TransC](/Pin1Yin1-TransC): Translator to translate Pin1Yin1 language into C language
 
 ## Contribution
 
