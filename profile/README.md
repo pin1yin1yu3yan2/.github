@@ -10,9 +10,12 @@ We are trying to make a simple programming language for Chinese, though it is st
 
 ### Advantages
 
-- **Easy to start**: For Chinese studied Pinyin which it is an *Compulsory Subjects* in primary school, without remembering any English word, can easily start with this language.
-- **Defence language**: There are many ways that you can decrease the readability of Pin1Yin1 code.
-- **Highly customization**: You can change the key words and add limits on the original language.
+- **Fast**: By using LLVM, Pin1Yin1 can be run on the real mechine. It would be as fast as C++ and Rust do.
+- **Cross-platfrom**: Pin1Yin1 allows to compile into binary or LLVM bitcode. Executor can run the same source code or release bitcode on different plactforms.
+- **High Memeory Safety**: We have considered a safe memory model for Pin1Yin1 language
+- **Easy to Start**: For Chinese studied Pinyin which it is an *Compulsory Subjects* in primary school, without remembering any English word, can easily start with this language.
+- **Defence Language**: There are many ways that you can decrease the readability of Pin1Yin1 code.
+- **Highly Customization**: You can change the key words and add limits on the original language.
 
 ## Projects
 
