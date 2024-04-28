@@ -19,13 +19,12 @@ We are trying to make a simple programming language for Chinese, though it is st
 
 ## Projects
 
-- [pycc](https://github.com/pin1yin1yu3yan2/pycc) provide easy to use binary to call Pin1Yin1-Compiler-CPP or other implements
 - [Pin1Yin1](https://github.com/pin1yin1yu3yan2/Pin1Yin1): Pin1Yin1 language main project
 - [Pin1Yin1-Reference](https://github.com/pin1yin1yu3yan2/Pin1Yin1-Reference): The reference for Pin1Yin1 language
 - [Pin1Yin1-Tutorial](https://github.com/pin1yin1yu3yan2/Pin1Yin1-Tutorial): Pin1Yin1 language tutorial
 - [Pin1Yin1-Compiler-CPP](https://github.com/pin1yin1yu3yan2/Pin1Yin1-Compiler-CPP): Pin1Yin1 Compiler cpp implement
 - [Pin1Yin1-Compiler-Rust](https://github.com/pin1yin1yu3yan2/Pin1Yin1-Compiler-Rust): Pin1Yin1 Compiler Rust implement
-- [Pin1Yin1-LLVM-IR-Compiler](https://github.com/pin1yin1yu3yan2/Pin1Yin1-LLVM-IR-Compiler): Pin1Yin1 Compiler based on LLVM IR
+- [Pin1Yin1-Compiler-LLVM-IR](https://github.com/pin1yin1yu3yan2/Pin1Yin1-Compiler-LLVM-IR): Pin1Yin1 Compiler based on LLVM IR
 - [Pin1Yin1-TransC](https://github.com/pin1yin1yu3yan2/Pin1Yin1-TransC): Translator to translate Pin1Yin1 language into C language
 - [Pin1Yin1-Standard](https://github.com/pin1yin1yu3yan2/Pin1Yin1-Standard): The standards of Pin1Yin1 language
 
